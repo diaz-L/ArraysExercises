@@ -12,6 +12,8 @@ namespace Ex14
       Console.WriteLine(MonthName(3));
       Console.WriteLine(MonthName(12));
       Console.WriteLine(MonthName(6));
+      //Console.WriteLine(MonthName(27));   //throws exception for invalid input value
+      //Console.WriteLine(MonthName(-2));     //throws exception for invalid input value
     }
 
     static string MonthName(int n)
@@ -22,7 +24,10 @@ namespace Ex14
                 "October", "November", "December"
             };
 
-      return n < 1 || n > 12 ? "Unknown" : months[n - 1];
+      if (n < 1 || n > 12)
+        throw new ArgumentOutOfRangeException();
+      else
+        return months[n - 1];
     }
   }
 }
