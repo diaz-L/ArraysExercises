@@ -1,0 +1,16 @@
+1. create a function that takes an array containing only values of the same type and return the first element
+2. given an array of integers, return the difference between the largest and smallest integers of the array
+3. create a function that accepts an array and returns the last item in the array. The array can contain any of C#'s primitive data types
+4. create a function that adds a string ending to each member in an array
+5. create a function that finds the index of a given item, if the item is not present, return -1
+6. write a function to reverse an array
+7. create a function that takes an array of numbers and returns the smallest number in the set
+8. create a function that takes an array of numbers, and returns the largest number in the array.
+9. create a function that takes an array of values and returns the first and last values.
+10. create a function that takes in an array of numbers and returns the sum of its cubes.
+11. write a method to check if an array contains a particular number.
+12. create a function to multiply all of the values in an array by the amount of values in the given array.
+13. create a function that takes an array of numbers and returns a new array sorted in ascending order. If an null is given return an empty array
+14. create a function that takes a number (1 to 12) and returns its correspoding month name as a string.
+15. create a function that takes an array of numbers and returns only the even numbers
+16.
