@@ -14,3 +14,5 @@
 14. create a function that takes a number (1 to 12) and returns its correspoding month name as a string.
 15. create a function that takes an array of numbers and returns only the even numbers
 16. create a function that takes an array of numbers and returns an array where each number is the sum of itself + all previous numbers in the array.
+17. create a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length.
+18.
