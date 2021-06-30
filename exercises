@@ -17,3 +17,4 @@
 17. create a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length.
 18. create a function that takes an array of names and returns an array where only the first letter of each name is capitalized.
 19. create a function that takes a list of numbers and returns the sum of all prime numbers in the list.
+20. create a function that determines whether elements in an array can be re-arranged to form a consecutive list of numbers where each number appears exactly once.
